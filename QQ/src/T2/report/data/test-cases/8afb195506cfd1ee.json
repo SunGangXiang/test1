@@ -1,0 +1,106 @@
+{
+  "uid" : "8afb195506cfd1ee",
+  "name" : "test_4[ -111111]",
+  "fullName" : "test_3.Testone#test_4[ -111111]",
+  "historyId" : "760b1f6a0d85036d655fb4868f8c6fc1",
+  "time" : {
+    "start" : 1566718680867,
+    "stop" : 1566718696168,
+    "duration" : 15301
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "dl",
+    "time" : {
+      "start" : 1566718668660,
+      "stop" : 1566718672324,
+      "duration" : 3664
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "wy",
+    "time" : {
+      "start" : 1566718672330,
+      "stop" : 1566718680866,
+      "duration" : 8536
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "wty",
+    "time" : {
+      "start" : 1566718672325,
+      "stop" : 1566718672330,
+      "duration" : 5
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "test_3"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testone"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-3THE6Q3"
+  }, {
+    "name" : "thread",
+    "value" : "2604-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "y1",
+    "value" : "' '"
+  }, {
+    "name" : "y2",
+    "value" : "'111111'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8afb195506cfd1ee.json",
+  "parameterValues" : [ "' '", "'111111'" ]
+}

@@ -1,0 +1,106 @@
+{
+  "uid" : "51be221f8898814",
+  "name" : "test_4[17530125501-111111]",
+  "fullName" : "test_3.Testone#test_4[17530125501-111111]",
+  "historyId" : "aa0104506d93416a454b44c887dc081e",
+  "time" : {
+    "start" : 1566718763779,
+    "stop" : 1566718779042,
+    "duration" : 15263
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "dl",
+    "time" : {
+      "start" : 1566718749100,
+      "stop" : 1566718752832,
+      "duration" : 3732
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "wty",
+    "time" : {
+      "start" : 1566718752833,
+      "stop" : 1566718752836,
+      "duration" : 3
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "wy",
+    "time" : {
+      "start" : 1566718752836,
+      "stop" : 1566718763777,
+      "duration" : 10941
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "test_3"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testone"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-3THE6Q3"
+  }, {
+    "name" : "thread",
+    "value" : "2604-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "y1",
+    "value" : "'17530125501'"
+  }, {
+    "name" : "y2",
+    "value" : "'111111'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "51be221f8898814.json",
+  "parameterValues" : [ "'17530125501'", "'111111'" ]
+}

@@ -1,0 +1,112 @@
+{
+  "uid" : "a08f80a82a14c4ba",
+  "name" : "test_3[ - ]",
+  "fullName" : "test_2#test_3[ - ]",
+  "historyId" : "a0ae5aa34a557d10398cb43233ddf3b2",
+  "time" : {
+    "start" : 1566108832238,
+    "stop" : 1566108849351,
+    "duration" : 17113
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "wty",
+    "time" : {
+      "start" : 1566108832234,
+      "stop" : 1566108832237,
+      "duration" : 3
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "wo",
+    "time" : {
+      "start" : 1566108813480,
+      "stop" : 1566108832234,
+      "duration" : 18754
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "22d78b82fe6e1222",
+      "name" : "log",
+      "source" : "22d78b82fe6e1222.txt",
+      "type" : "text/plain",
+      "size" : 201
+    }, {
+      "uid" : "b2a4e95a225bc901",
+      "name" : "stderr",
+      "source" : "b2a4e95a225bc901.txt",
+      "type" : "text/plain",
+      "size" : 211
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "test_2"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-3THE6Q3"
+  }, {
+    "name" : "thread",
+    "value" : "9796-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "y1",
+    "value" : "' '"
+  }, {
+    "name" : "y2",
+    "value" : "' '"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a08f80a82a14c4ba.json",
+  "parameterValues" : [ "' '", "' '" ]
+}

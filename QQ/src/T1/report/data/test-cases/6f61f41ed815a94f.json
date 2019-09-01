@@ -1,0 +1,112 @@
+{
+  "uid" : "6f61f41ed815a94f",
+  "name" : "test_3[17826808915-1234]",
+  "fullName" : "test_2#test_3[17826808915-1234]",
+  "historyId" : "fdd4d0f8b19ed3d6a547b276f2fe85a7",
+  "time" : {
+    "start" : 1566108869218,
+    "stop" : 1566108887296,
+    "duration" : 18078
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "wty",
+    "time" : {
+      "start" : 1566108869213,
+      "stop" : 1566108869216,
+      "duration" : 3
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "wo",
+    "time" : {
+      "start" : 1566108849379,
+      "stop" : 1566108869213,
+      "duration" : 19834
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2a75998bba7fc10d",
+      "name" : "log",
+      "source" : "2a75998bba7fc10d.txt",
+      "type" : "text/plain",
+      "size" : 214
+    }, {
+      "uid" : "323d2ea81a8cb21e",
+      "name" : "stderr",
+      "source" : "323d2ea81a8cb21e.txt",
+      "type" : "text/plain",
+      "size" : 223
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "test_2"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-3THE6Q3"
+  }, {
+    "name" : "thread",
+    "value" : "9796-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "y1",
+    "value" : "'17826808915'"
+  }, {
+    "name" : "y2",
+    "value" : "'1234'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6f61f41ed815a94f.json",
+  "parameterValues" : [ "'17826808915'", "'1234'" ]
+}

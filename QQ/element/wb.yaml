@@ -1,0 +1,57 @@
+---
+# 百度网址
+bwz: https://www.baidu.com/
+
+# 喔图网址
+wwz: https://www.alltuu.com/
+
+# 点击喔图网页地址 xpath
+dj: //*[@id="1"]/h3/a
+
+# 标题 xpath
+bt: //*[@id="app"]/div/div[1]/div/div/div[1]/a
+
+# 点击登陆
+denglu: //*[@id="app"]/div/div[1]/div/div/div[2]/ul/li[2]/div/a[1]
+
+# 账户
+zh: //*[@id="app"]/div/div[2]/div/section[6]/span
+
+# 账号
+zhanghao: //*[@id="app"]/div/div[2]/div/section[2]/div/input
+
+# 密码
+mima: //*[@id="app"]/div/div[2]/div/section[3]/div/input
+
+# 立即登陆
+ljdl: //*[@id="app"]/div/div[2]/div/section[4]/div
+
+# 用户的名子
+mingzi: //*[@id="app"]/div/div[1]/div/div/div[2]/ul/li[2]/a
+
+# 精选案例
+anli: //*[@id="app"]/div/div[1]/div/div/div[1]/ul/li[2]/a
+
+# 开放平台
+kfpt: //*[@id="app"]/div/div[1]/div/div/div[1]/ul/li[3]/a
+
+# 下载中心
+xzzx: //*[@id="app"]/div/div[1]/div/div/div[1]/ul/li[4]/a
+
+# 关于我们
+women: //*[@id="app"]/div/div[1]/div/div/div[1]/ul/li[5]/a
+
+# 精选案例标题
+wubt: /html/head/title
+
+# 活动类型
+leixing: //*[@id="app"]/div/div/section/div[3]/div/div/div/span
+
+# 赋能摄影师
+fu: //*[@id="app"]/div/div[2]/h1
+
+# 重定义
+chong: //*[@id="app"]/div/div[2]/section/p
+
+# 用图片创造价值
+yong: //*[@id="app"]/div/section[1]/div/p[1]

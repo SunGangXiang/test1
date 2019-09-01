@@ -1,0 +1,83 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_3[ -123456]",
+    "uid" : "207899654c742754",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1566108760044,
+      "stop" : 1566108777372,
+      "duration" : 17328
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "' '", "'123456'" ]
+  }, {
+    "name" : "test_3[17826808915- ]",
+    "uid" : "b93065ed14b51413",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1566108796056,
+      "stop" : 1566108813453,
+      "duration" : 17397
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'17826808915'", "' '" ]
+  }, {
+    "name" : "test_3[ - ]",
+    "uid" : "a08f80a82a14c4ba",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1566108832238,
+      "stop" : 1566108849351,
+      "duration" : 17113
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "' '", "' '" ]
+  }, {
+    "name" : "test_3[17826808915-1234]",
+    "uid" : "6f61f41ed815a94f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1566108869218,
+      "stop" : 1566108887296,
+      "duration" : 18078
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'17826808915'", "'1234'" ]
+  }, {
+    "name" : "test_3[17826808911-123456]",
+    "uid" : "348ec28a84b195fd",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1566108906455,
+      "stop" : 1566108923974,
+      "duration" : 17519
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'17826808911'", "'123456'" ]
+  }, {
+    "name" : "test_3[17826808915-123456]",
+    "uid" : "ea26a610e147478",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1566108942818,
+      "stop" : 1566108970849,
+      "duration" : 28031
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'17826808915'", "'123456'" ]
+  } ]
+}

@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Aug 18 14:13:52 CST 2019","Sun Aug 18 14:14:09 CST 2019","17113","","test_2","","","","test_3[ - ]",""
+"passed","Sun Aug 18 14:15:06 CST 2019","Sun Aug 18 14:15:23 CST 2019","17519","","test_2","","","","test_3[17826808911-123456]",""
+"passed","Sun Aug 18 14:13:16 CST 2019","Sun Aug 18 14:13:33 CST 2019","17397","","test_2","","","","test_3[17826808915- ]",""
+"passed","Sun Aug 18 14:15:42 CST 2019","Sun Aug 18 14:16:10 CST 2019","28031","","test_2","","","","test_3[17826808915-123456]",""
+"passed","Sun Aug 18 14:14:29 CST 2019","Sun Aug 18 14:14:47 CST 2019","18078","","test_2","","","","test_3[17826808915-1234]",""
+"passed","Sun Aug 18 14:12:40 CST 2019","Sun Aug 18 14:12:57 CST 2019","17328","","test_2","","","","test_3[ -123456]",""

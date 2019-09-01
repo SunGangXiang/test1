@@ -1,0 +1,39 @@
+---
+# 账号密码 class
+zm: android.widget.EditText
+
+# 登陆 class
+dl: android.widget.TextView
+
+
+# 抓喔图云摄影 class
+sy: android.widget.TextView
+
+# 点闪传 class
+sc: android.widget.ImageView
+
+# 抓退出 class
+tc: android.widget.TextView
+
+# 抓《喔图服务条款》 class
+tk: android.widget.TextView
+
+# 点账号 class
+zh: android.widget.TextView
+
+# 点系统设置
+sz: android.widget.ImageView
+
+# 点退出当前账号
+tuichu: android.widget.TextView
+
+# 点图片
+yi: android.widget.ImageView
+
+# 点返回键
+fanhui: android.widget.TextView
+
+# 创建相册
+xc: android.widget.TextView
+
+

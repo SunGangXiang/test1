@@ -1,0 +1,112 @@
+{
+  "uid" : "348ec28a84b195fd",
+  "name" : "test_3[17826808911-123456]",
+  "fullName" : "test_2#test_3[17826808911-123456]",
+  "historyId" : "5953f29b2e5902f9322dcb2b67a36d3b",
+  "time" : {
+    "start" : 1566108906455,
+    "stop" : 1566108923974,
+    "duration" : 17519
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "wo",
+    "time" : {
+      "start" : 1566108887344,
+      "stop" : 1566108906451,
+      "duration" : 19107
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "wty",
+    "time" : {
+      "start" : 1566108906451,
+      "stop" : 1566108906454,
+      "duration" : 3
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5bb03595e418e526",
+      "name" : "log",
+      "source" : "5bb03595e418e526.txt",
+      "type" : "text/plain",
+      "size" : 216
+    }, {
+      "uid" : "126cc01303c3c0d",
+      "name" : "stderr",
+      "source" : "126cc01303c3c0d.txt",
+      "type" : "text/plain",
+      "size" : 226
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "test_2"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-3THE6Q3"
+  }, {
+    "name" : "thread",
+    "value" : "9796-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "y1",
+    "value" : "'17826808911'"
+  }, {
+    "name" : "y2",
+    "value" : "'123456'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "348ec28a84b195fd.json",
+  "parameterValues" : [ "'17826808911'", "'123456'" ]
+}
